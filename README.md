@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a CS Student<br>⏳ I've been learning to code for many years.<br>🌐 I have found a passion for Full-Stack Development <br>🤖 I also have an interest in ML & AI
+🎓 I'm a CS Student<br>⏳ I've been learning to code for many years 🧙 <br>🌐 I have found a passion for Full-Stack Development <br>🤖 I also have an interest in ML & AI
 
 
 # 💻 Tech Stack:
