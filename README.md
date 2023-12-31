@@ -5,20 +5,12 @@
 ###
 
 <div align="center">
-  <a href="https://discordapp.com/users899040307390333002" target="_blank">
+  <a href="https://discordapp.com/users/899040307390333002" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/jasonuc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jasonuc.jasonuc&"  />
 </div>
 
 ###
