@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Jason<br><br>🎓 I'm a CS Student<br>🕸️ I love to contribute to open source<br>🌐 I have found a passion for Full-Stack Development<br>🤖 I also have an interest in ML & AI</p>
+<p align="left">I'm Jason<br><br>🎓 I'm a CS Student<br>🕸️ I love to contribute to open source<br>🌐 I have found a passion for Full-Stack Development<br>🤖 I also have an interest in ML</p>
 
 ###
 
