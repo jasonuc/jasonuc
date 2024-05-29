@@ -2,7 +2,7 @@
   <img height="150" src="https://avatars.githubusercontent.com/u/85848469?s=400&u=85a010fe6a098e0254d423ae3d05c03e9902f535&v=4"  />
 </div>
 
-<h1 align="center">hey there! 👋</h1>
+<h1 align="center">👋 hey there! 👋</h1>
 
 ###
 
