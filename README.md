@@ -6,8 +6,6 @@
 
 <h3 align="left">🏂  About Me ⚡️</h3>
 
-###
-
 <p align="left"><br>🎓 I'm a CS Student<br>🕸️ I love to contribute to open source<br>🌐 I have found a passion for Full-Stack Development<br>🤖 I also have an interest in ML</p>
 
 ###
