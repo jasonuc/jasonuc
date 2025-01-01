@@ -1,7 +1,3 @@
-<h1 align="center">👋 hey there! 👋</h1>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
